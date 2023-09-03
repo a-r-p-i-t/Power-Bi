@@ -1,3 +1,9 @@
+
+## Sales Dashboard
+
+![Screenshot (205)](https://github.com/a-r-p-i-t/Power-Bi/assets/99071325/05f80874-6f6b-43c8-81d9-8c4f201e66fd)
+
+
 # Store Sales Dashboard
 
 Data Analysis using Power-Bi to contribute to the success of a buisness , focussing on Time Series Analysis , to provide valuable insights and accurate sales forecasting.
@@ -14,9 +20,6 @@ The objective can be broken down into the following detailed components:
    
 4. Actionable Insights and Recommendations: End goal is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goals for growth, efficiency, and customer satisfaction.
 
-## Sales Dashboard
-
-![Screenshot (205)](https://github.com/a-r-p-i-t/Power-Bi/assets/99071325/05f80874-6f6b-43c8-81d9-8c4f201e66fd)
 
 ## Sales Forecasting
 
